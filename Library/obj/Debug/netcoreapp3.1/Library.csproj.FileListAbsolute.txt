@@ -1,0 +1,13 @@
+C:\Users\Studerande\source\repos\IteratorsComparators\Library\bin\Debug\netcoreapp3.1\Library.exe
+C:\Users\Studerande\source\repos\IteratorsComparators\Library\bin\Debug\netcoreapp3.1\Library.deps.json
+C:\Users\Studerande\source\repos\IteratorsComparators\Library\bin\Debug\netcoreapp3.1\Library.runtimeconfig.json
+C:\Users\Studerande\source\repos\IteratorsComparators\Library\bin\Debug\netcoreapp3.1\Library.runtimeconfig.dev.json
+C:\Users\Studerande\source\repos\IteratorsComparators\Library\bin\Debug\netcoreapp3.1\Library.dll
+C:\Users\Studerande\source\repos\IteratorsComparators\Library\bin\Debug\netcoreapp3.1\Library.pdb
+C:\Users\Studerande\source\repos\IteratorsComparators\Library\obj\Debug\netcoreapp3.1\Library.csprojAssemblyReference.cache
+C:\Users\Studerande\source\repos\IteratorsComparators\Library\obj\Debug\netcoreapp3.1\Library.csproj.CoreCompileInputs.cache
+C:\Users\Studerande\source\repos\IteratorsComparators\Library\obj\Debug\netcoreapp3.1\Library.AssemblyInfoInputs.cache
+C:\Users\Studerande\source\repos\IteratorsComparators\Library\obj\Debug\netcoreapp3.1\Library.AssemblyInfo.cs
+C:\Users\Studerande\source\repos\IteratorsComparators\Library\obj\Debug\netcoreapp3.1\Library.dll
+C:\Users\Studerande\source\repos\IteratorsComparators\Library\obj\Debug\netcoreapp3.1\Library.pdb
+C:\Users\Studerande\source\repos\IteratorsComparators\Library\obj\Debug\netcoreapp3.1\Library.genruntimeconfig.cache

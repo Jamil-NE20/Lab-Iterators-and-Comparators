@@ -1,0 +1,13 @@
+C:\Users\Studerande\source\repos\IteratorsComparators\ComparableBook\bin\Debug\netcoreapp3.1\ComparableBook.exe
+C:\Users\Studerande\source\repos\IteratorsComparators\ComparableBook\bin\Debug\netcoreapp3.1\ComparableBook.deps.json
+C:\Users\Studerande\source\repos\IteratorsComparators\ComparableBook\bin\Debug\netcoreapp3.1\ComparableBook.runtimeconfig.json
+C:\Users\Studerande\source\repos\IteratorsComparators\ComparableBook\bin\Debug\netcoreapp3.1\ComparableBook.runtimeconfig.dev.json
+C:\Users\Studerande\source\repos\IteratorsComparators\ComparableBook\bin\Debug\netcoreapp3.1\ComparableBook.dll
+C:\Users\Studerande\source\repos\IteratorsComparators\ComparableBook\bin\Debug\netcoreapp3.1\ComparableBook.pdb
+C:\Users\Studerande\source\repos\IteratorsComparators\ComparableBook\obj\Debug\netcoreapp3.1\ComparableBook.csprojAssemblyReference.cache
+C:\Users\Studerande\source\repos\IteratorsComparators\ComparableBook\obj\Debug\netcoreapp3.1\ComparableBook.csproj.CoreCompileInputs.cache
+C:\Users\Studerande\source\repos\IteratorsComparators\ComparableBook\obj\Debug\netcoreapp3.1\ComparableBook.AssemblyInfoInputs.cache
+C:\Users\Studerande\source\repos\IteratorsComparators\ComparableBook\obj\Debug\netcoreapp3.1\ComparableBook.AssemblyInfo.cs
+C:\Users\Studerande\source\repos\IteratorsComparators\ComparableBook\obj\Debug\netcoreapp3.1\ComparableBook.dll
+C:\Users\Studerande\source\repos\IteratorsComparators\ComparableBook\obj\Debug\netcoreapp3.1\ComparableBook.pdb
+C:\Users\Studerande\source\repos\IteratorsComparators\ComparableBook\obj\Debug\netcoreapp3.1\ComparableBook.genruntimeconfig.cache
